@@ -1,6 +1,7 @@
 # buscador_de_gifs
 
-App criado em Flutter para buscar GIFs de uma API
+App criado em Flutter para buscar GIFs de uma API, podendo compartilhar
+o gif com outros apps
 
 ## Getting Started
 
